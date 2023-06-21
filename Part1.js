@@ -1,6 +1,6 @@
 const Part1 = () => {
     return (<div>
     <FirstComponent />
-    <NamedComponent name="Carlos" />
+    <NamedComponent name="David" />
     </div>)
 }

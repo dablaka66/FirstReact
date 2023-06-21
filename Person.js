@@ -1,10 +1,8 @@
 
 
-
-
 function Person({ age, hobbies, name }) {
   const voteText = age >= 18
-      ? "Go vote!"
+      ? "Hurry up!  Go vote!"
       : "Go study!";
 
   const hobbiesLIs = hobbies.map(hobby => <li>{hobby}</li>);

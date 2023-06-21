@@ -4,7 +4,7 @@ const Part2 = () => {
     name="Clark" 
     date="06/1033"
     message="texto del tweet" />
-    <Tweet userName="Batman" 
+    <Tweet userName="Batman y Robin" 
     name="jerry" 
     date="06/1033"
     message="texto del tweet" />
